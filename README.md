@@ -96,8 +96,16 @@ Technologies: HTML, CSS, JavaScript
   </a>
 </p>
 
-## Pantukan National Highschool Student Fee Management System
-
+Pantukan National Highschool Student Fee Management System
+<p align="center">
+<a href="Screenshot 2026-09-06 234258.png">
+    <img 
+      src="Screenshot 2026-09-06 234258.png" 
+      width="600" 
+      alt="SFMS"
+    />
+  </a>
+</p>
 A web-based system designed to manage **student fee records, payments, and related information** through an organized and user-friendly interface.
 
 Technologies: React • Vite • Tailwind CSS
@@ -120,7 +128,7 @@ Here are some of the certificates and training I've completed:
   <a href="certificate.png">
     <img 
       src="certificate.png" 
-      width="800" 
+      width="600" 
       alt="AI ASEAN Certificate of Completion"
     />
   </a>
@@ -137,7 +145,7 @@ Here are some of the certificates and training I've completed:
   <a href="Metaverse Symposium.png">
     <img 
       src="Metaverse Symposium.png" 
-      width="800" 
+      width="600" 
       alt="Certificate of Participation - 1st International Metaverse Symposium in Physical Education and Sport"
     />
   </a>
