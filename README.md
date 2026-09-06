@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">✨ Developing and debugging code as part of my continuous journey in software development.  <br><br>📚 I'm currently learning backend development, system architecture, and mobile application development with React Native.  <br><br>🎯 Goals: To become a proficient full-stack developer capable of building scalable and impactful digital systems.  <br><br>🎲 
+<p align="left">✨ Developing and debugging code as part of my continuous journey in software development.  <br><br>📚 I'm currently learning backend development, system architecture, and mobile application development with React Native.  <br><br>🎯 Goals: To become a proficient full-stack developer capable of building scalable and impactful digital systems.  <br><br>
 
 ###
 ###
