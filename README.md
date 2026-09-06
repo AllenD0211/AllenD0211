@@ -139,14 +139,6 @@ I'm always open to **learning, collaborating, and connecting** with other develo
 </div>
 
 
-## ⭐ Thanks for Visiting!
 
-Thank you for taking the time to visit my GitHub profile and portfolio.
-
-Feel free to explore my repositories and projects. I'm always working on improving my skills, learning new technologies, and building meaningful projects.
-
-<div align="center">
-
-### 🚀 Always Learning. Always Building. Always Improving.
 
 </div>
