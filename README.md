@@ -1,68 +1,152 @@
-
-
 <div align="center">
-  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDNzbjJyazBwZ3BibzhnYTJhcjcwaDExaXY2aHR0YmgyZ29nN3E4cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif"  />
+
+  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDNzbjJyazBwZ3BibzhnYTJhcjcwaDExaXY2aHR0YmgyZ29nN3E4cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" />
+
+  <h1>Hi, I'm Allen Dave C. Deala 👋</h1>
+
+  <p>
+    <strong>IT Graduate | Web Developer | UI/UX & Multimedia Enthusiast</strong>
+  </p>
+
 </div>
 
-###
+---
 
-<h1 align="left">Hi, I'm Allen 👋</h1>
+## About Me
 
-###
+I'm an **Information Technology graduate** with a strong interest in **web development, UI/UX design, and multimedia technologies**. I enjoy creating practical, user-friendly, and visually appealing digital experiences while continuously improving my technical skills.
 
-<p align="left">💻   IT Student – Multimedia Major<br>🎓   Davao Oriental State University</p>
+This repository contains my **personal portfolio website**, showcasing my projects, skills, certificates, and experience with different technologies and development tools.
 
-###
+I'm passionate about technology and enjoy learning through hands-on projects. Throughout my academic journey and personal projects, I've gained experience in **front-end and back-end development, database management, software development, UI/UX design, and multimedia**.
 
-<h3 align="left">About me</h3>
+🎯 **Current Goal:**
+To continuously strengthen my development skills, build meaningful projects, gain professional experience, and grow as an IT professional.
 
-###
+---
 
-<p align="left">✨ Developing and debugging code as part of my continuous journey in software development.  <br><br>📚 I'm currently learning backend development, system architecture, and mobile application development with React Native.  <br><br>🎯 Goals: To become a proficient full-stack developer capable of building scalable and impactful digital systems.  <br><br>
-
-###
-###
-<h3 align="left">🛠Technologies and Tools</h3>
-
-###
+## 🛠️ Technologies & Tools
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express.js" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/vercel/000000" height="40" alt="vercel logo"  />
+
+  <img src="https://cdn.simpleicons.org/vercel/000000" height="40" alt="Vercel" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
+
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="Tailwind CSS" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="Blender" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="Unity" />
+
 </div>
 
-###
+---
+
+## 📂 Featured Projects
+
+### Personal Portfolio
+
+A responsive personal portfolio website designed to showcase my **skills, projects, certificates, and background as an IT graduate**.
+
+**Technologies:** HTML, CSS, JavaScript
+
+---
+
+### Pantukan National Highschool Student Fee Management System
+
+A web-based system designed to manage **student fee records, payments, and related information** through an organized and user-friendly interface.
+
+**Technologies:** React, Vite, Tailwind CSS
+
+---
+## 📜 Certificates
+
+Here are some of the certificates and training I've completed:
+
+AI ASEAN — Certificate of Completion
+
+<p align="center">
+  <a href="assets/certificates/AI-ASEAN-Certificate.png">
+    <img 
+      src="assets/certificates/AI-ASEAN-Certificate.png" 
+      width="800" 
+      alt="AI ASEAN Certificate of Completion"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <strong>AI Ready ASEAN — Certificate of Completion</strong><br>
+  Completed all chapters of the 12-hour AI learning modules on AIClassASEAN.org.<br>
+  April 22, 2026
+</p>
+
+---
+
+## 📫 Let's Connect
+
+I'm always open to **learning, collaborating, and connecting** with other developers, designers, and technology enthusiasts.
+
+<div align="center">
+  <a href="https://github.com/AllenD0211"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/allen-dave-deala-a297aa29b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  &nbsp;&nbsp;
+  <a href="https://www.behance.net/Allendesigns2024"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"></a>
+  &nbsp;&nbsp;
+  <a href="mailto:allendavedeala@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+</div>
 
 
+## ⭐ Thanks for Visiting!
 
+Thank you for taking the time to visit my GitHub profile and portfolio.
+
+Feel free to explore my repositories and projects. I'm always working on improving my skills, learning new technologies, and building meaningful projects.
+
+<div align="center">
+
+### 🚀 Always Learning. Always Building. Always Improving.
+
+</div>
