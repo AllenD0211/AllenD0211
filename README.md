@@ -95,8 +95,8 @@ Technologies: HTML, CSS, JavaScript
     <img src="https://img.shields.io/badge/View%20Repository-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository">
   </a>
 </p>
-##
-Pantukan National Highschool Student Fee Management System
+
+## Pantukan National Highschool Student Fee Management System
 
 A web-based system designed to manage **student fee records, payments, and related information** through an organized and user-friendly interface.
 
