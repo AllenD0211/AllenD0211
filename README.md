@@ -89,8 +89,12 @@ Personal Portfolio
 
 A responsive personal portfolio website designed to showcase my **skills, projects, certificates, and background as an IT graduate**.
 
-**Technologies:** HTML, CSS, JavaScript
-
+Technologies: HTML, CSS, JavaScript
+<p align="center">
+  <a href="https://github.com/AllenD0211/Portfolio">
+    <img src="https://img.shields.io/badge/View%20Repository-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository">
+  </a>
+</p>
 ##
 Pantukan National Highschool Student Fee Management System
 
