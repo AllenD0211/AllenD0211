@@ -117,7 +117,7 @@ Here are some of the certificates and training I've completed:
 🤖 AI ASEAN — Certificate of Completion
 
 <p align="center">
-  <a href="assets/certificates/AI-ASEAN-Certificate.png">
+  <a href="certificate.pdf">
     <img 
       src="certificate.pdf" 
       width="800" 
@@ -134,9 +134,9 @@ Here are some of the certificates and training I've completed:
 🌐 1st International Metaverse Symposium in Physical Education and Sport
 
 <p align="center">
-  <a href="assets/certificates/International-Metaverse-Symposium.png">
+  <a href="Metaverse Symposium.png">
     <img 
-      src="assets/certificates/International-Metaverse-Symposium.png" 
+      src="Metaverse Symposium.png" 
       width="800" 
       alt="Certificate of Participation - 1st International Metaverse Symposium in Physical Education and Sport"
     />
@@ -164,9 +164,4 @@ I'm always open to **learning, collaborating, and connecting** with other develo
   <a href="https://www.behance.net/Allendesigns2024"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"></a>
   &nbsp;&nbsp;
   <a href="mailto:allendavedeala@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-</div>
-
-
-
-
 </div>
