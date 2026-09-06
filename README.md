@@ -117,9 +117,9 @@ Here are some of the certificates and training I've completed:
 🤖 AI ASEAN — Certificate of Completion
 
 <p align="center">
-  <a href="certificate.pdf">
+  <a href="certificate.png">
     <img 
-      src="certificate.pdf" 
+      src="certificate.png" 
       width="800" 
       alt="AI ASEAN Certificate of Completion"
     />
