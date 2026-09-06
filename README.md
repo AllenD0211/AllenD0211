@@ -119,7 +119,7 @@ Here are some of the certificates and training I've completed:
 <p align="center">
   <a href="assets/certificates/AI-ASEAN-Certificate.png">
     <img 
-      src="assets/certificates/AI-ASEAN-Certificate.png" 
+      src="certificate.pdf" 
       width="800" 
       alt="AI ASEAN Certificate of Completion"
     />
