@@ -98,7 +98,11 @@ A web-based system designed to manage **student fee records, payments, and relat
 
 Technologies: React • Vite • Tailwind CSS
 
-🔗 View Repository
+<p align="center">
+  <a href="https://github.com/AllenD0211/School-Payment-System">
+    <img src="https://img.shields.io/badge/View%20Repository-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository">
+  </a>
+</p>
 
 ---
 
