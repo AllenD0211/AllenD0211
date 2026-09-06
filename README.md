@@ -85,26 +85,28 @@ To continuously strengthen my development skills, build meaningful projects, gai
 
 ## 📂 Featured Projects
 
-### Personal Portfolio
+Personal Portfolio
 
 A responsive personal portfolio website designed to showcase my **skills, projects, certificates, and background as an IT graduate**.
 
 **Technologies:** HTML, CSS, JavaScript
 
----
-
-### Pantukan National Highschool Student Fee Management System
+##
+Pantukan National Highschool Student Fee Management System
 
 A web-based system designed to manage **student fee records, payments, and related information** through an organized and user-friendly interface.
 
-**Technologies:** React, Vite, Tailwind CSS
+Technologies: React • Vite • Tailwind CSS
+
+🔗 View Repository
 
 ---
-## 📜 Certificates
+
+## 📜 Certificates & Trainings
 
 Here are some of the certificates and training I've completed:
 
-AI ASEAN — Certificate of Completion
+🤖 AI ASEAN — Certificate of Completion
 
 <p align="center">
   <a href="assets/certificates/AI-ASEAN-Certificate.png">
@@ -120,6 +122,24 @@ AI ASEAN — Certificate of Completion
   <strong>AI Ready ASEAN — Certificate of Completion</strong><br>
   Completed all chapters of the 12-hour AI learning modules on AIClassASEAN.org.<br>
   April 22, 2026
+</p>
+🌐 1st International Metaverse Symposium in Physical Education and Sport
+
+<p align="center">
+  <a href="assets/certificates/International-Metaverse-Symposium.png">
+    <img 
+      src="assets/certificates/International-Metaverse-Symposium.png" 
+      width="800" 
+      alt="Certificate of Participation - 1st International Metaverse Symposium in Physical Education and Sport"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <strong>Certificate of Participation</strong><br>
+  1st International Metaverse Symposium in Physical Education and Sport (IMSPES)<br>
+  <em>Metaverse-Driven Innovation for Global PE and Sport</em><br>
+  March 22, 2026
 </p>
 
 ---
