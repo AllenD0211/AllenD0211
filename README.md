@@ -87,7 +87,7 @@ To continuously strengthen my development skills, build meaningful projects, gai
 
 Personal Portfolio
 
-A responsive personal portfolio website designed to showcase my **skills, projects, certificates, and background as an IT graduate**.
+A responsive personal portfolio website designed to showcase my skills, projects, certificates, and background as an IT graduate.
 
 Technologies: HTML, CSS, JavaScript
 <p align="center">
@@ -106,7 +106,7 @@ Pantukan National Highschool Student Fee Management System
     />
   </a>
 </p>
-A web-based system designed to manage **student fee records, payments, and related information** through an organized and user-friendly interface.
+A web-based system designed to manage student fee records, payments, and related information through an organized and user-friendly interface.
 
 Technologies: React • Vite • Tailwind CSS
 
